@@ -33,3 +33,4 @@ Dette værktøj kan visualisere citationsnetværk og er også værd at kigge på
 - download programmet fra [http://www.citnetexplorer.nl/](http://www.citnetexplorer.nl)
 - følg vejledningerne, som nævnt under VosViewer 
 
+### tilbage til dagens [program](Program.md)
