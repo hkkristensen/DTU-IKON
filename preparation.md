@@ -17,16 +17,16 @@
 GitHub anvender Markdown sproget - men læs og lær gerne mere om dette sprog, som lidt ligner Wiki syntax  
 [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) og hent [Kramdown](https://kramdown.gettalong.org/quickref.html) cheatsheet, så er I kørende 
  
- ## VosViewer
+## VosViewer
  
- - Dette program er udviklet i Leiden, CWTS
- - læs gerne den korte [vejledning](http://www.vosviewer.com/download#Instructions)
- - Download dernæst [http://www.vosviewer.com/download](http://www.vosviewer.com/download) i den version som passer til jeres maskine
- - bare vælg den standard opsætning, som foreslås
+- Dette program er udviklet i Leiden, CWTS
+- læs gerne den korte [vejledning](http://www.vosviewer.com/download#Instructions)
+- Download dernæst [http://www.vosviewer.com/download](http://www.vosviewer.com/download) i den version som passer til jeres maskine
+- bare vælg den standard opsætning, som foreslås
  
- Værktøjet kan anvendes til at visualisere søgninger fra blandt andet Web of Science og Scopus. 
+Værktøjet kan anvendes til at visualisere søgninger fra blandt andet Web of Science og Scopus. 
  
- ## CitNetExplorer, for en sikkerheds skyld  
+## CitNetExplorer, for en sikkerheds skyld  
  
 Dette værktøj kan visualisere citationsnetværk og er også værd at kigge på _hurtigt_
 
