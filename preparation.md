@@ -9,16 +9,27 @@
 
 ## GitHub og Atom.io
 
-- Installer inden workshoppen:
-- Register for a GitHub account: https://github.com 
-- Install Atom: https://atom.io/
-- Install a Git UI [User interface], see below
-  - Windows/Mac: GitHub Desktop https://desktop.github.com/
+- I skal registrerer jer for at få en [GitHub konto](https://github.com)
+- Dernæst skal I installere en editor [Atom](https://atom.io/)
+- En desktopklient er også lækker, den hentes via 
+  - Windows/Mac: [GitHub Desktop](https://desktop.github.com/)
   
-Det kræver også at man anvender Markdown sproget - men læs og lær gerne mere her 
-https://guides.github.com/features/mastering-markdown/ eller hent [Kramdown](https://kramdown.gettalong.org/quickref.html)
-cheatsheet
+GitHub anvender Markdown sproget - men læs og lær gerne mere om dette sprog, som lidt ligner Wiki syntax  
+[Mastering Markdown](https://guides.github.com/features/mastering-markdown/) og hent [Kramdown](https://kramdown.gettalong.org/quickref.html) cheatsheet, så er I kørende 
  
- ## VosViewer, samt også CitNetExplorer, for en sikkerheds skyld  
+ ## VosViewer
  
- Tilføj selv egne noter hen ad vejen
+ - Dette program er udviklet i Leiden, CWTS
+ - læs gerne den korte [vejledning](http://www.vosviewer.com/download#Instructions)
+ - Download dernæst [http://www.vosviewer.com/download](http://www.vosviewer.com/download) i den version som passer til jeres maskine
+ - bare vælg den standard opsætning, som foreslås
+ 
+ Værktøjet kan anvendes til at visualisere søgninger fra blandt andet Web of Science og Scopus. 
+ 
+ ## CitNetExplorer, for en sikkerheds skyld  
+ 
+Dette værktøj kan visualisere citationsnetværk og er også værd at kigge på _hurtigt_
+
+- download programmet fra [http://www.citnetexplorer.nl/](http://www.citnetexplorer.nl)
+- følg vejledningerne, som nævnt under VosViewer 
+
