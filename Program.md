@@ -25,3 +25,6 @@ Deltagere: IKON
 | 15.00	| VosViewer fortsat | |
 | 16.00	| Dagen rundes af | Andrew |
 
+
+## Div tools til [download](preparation.md)
+
