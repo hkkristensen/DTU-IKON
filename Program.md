@@ -1,5 +1,5 @@
-# IKON Team dag 
-## – Introduktion til håndtering, deling og visualisering af DATA
+# Team dag  
+## – Indledende introduktion til håndtering, deling og visualisering af DATA
 
 Tidspunkt: 2. oktober 2017 fra kl. 9-16.15 
 
@@ -24,6 +24,7 @@ Deltagere: IKON
  | 14.45	| Kaffe og eftermiddagsfrugt/kage | IKON |
 | 15.00	| VosViewer fortsat | |
 | 16.00	| Dagen rundes af | Andrew |
+
 
 
 ## Div tools til [download](preparation.md)
