@@ -27,6 +27,6 @@ Underviser/facilitator: Jeannette Ekstrøm
 
 
 
-### Div tools til [download](preparation.md)
-### Div opgaver til OpenRefine, GitHub og VosViewer
+### Div tools til [download](preparation.html)
+### Div opgaver til [OpenRefine](openrefine_exercise1.html), [GitHub](github-opgaver.html) og VosViewer
 ### Links til eventuelle dataset  
