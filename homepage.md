@@ -9,8 +9,8 @@ En dag, hvor vi skal forsøge at få lidt styr på enkelte Data Tools - masser a
 1. <a href="preparation.md">Indledende forberelser og div. tools til download</a>
 
 ## Opgaver
-1. <a href="openrefine_exercise1.md">OpenRefine opgaver</a>
-1. <a href="Github-opgaver.md">Github-opgaver</a>
+1. <a href="openrefine_exercise1.html">OpenRefine opgaver</a>
+1. <a href="Github-opgaver.html">Github-opgaver</a>
 1. <a href="vosviewer-opgaver.md">vosviewer-opgaver</a>
 
 ## filer, dataset til øvelser
