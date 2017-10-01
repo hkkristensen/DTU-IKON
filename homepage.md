@@ -8,6 +8,6 @@
 * <a href="vosviewer-opgaver.md">vosviewer-opgaver</a>
 
 * filer, dataset til øvelser
-* <a href=""></a>
-* <a href=""></a>
+* <a href="openrefine_authors-people.csv">OpenRefine opgave 1</a>
+* <a href="Pure_publications_26092017.xls">ekstra OpenRefine opgave m. PURE/DTU ORBIT data</a>
 * <a href=""></a>

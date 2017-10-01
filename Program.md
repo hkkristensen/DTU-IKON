@@ -5,7 +5,7 @@ Tidspunkt: 2. oktober 2017 fra kl. 9-16.15
 
 Sted: Schæffergården, Jægersborg Alle 166, 2820 Gentofte
 
-Underviser/facilitator: Jeannette Ekstrøm 
+Underviser/facilitator: Jeannette Ekstrøm
 
 
  | *Tidspunkt* | *Indhold* | *Ansvar* |
