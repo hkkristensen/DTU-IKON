@@ -10,12 +10,12 @@ En dag, hvor vi skal forsøge at få lidt styr på enkelte Data Tools - masser a
 
 ## Opgaver
 1. <a href="openrefine_exercise1.html">OpenRefine opgaver</a>
-1. <a href="gitHub-exercise.html">GitHub-opgaver</a>
+1. <a href="github-exercise.html">GitHub-opgaver</a>
 1. <a href="vosviewer-exercise.html">vosviewer-opgaver</a>
 
 ## filer, dataset til øvelser
 1. <a href="openrefine_authors-people.csv">OpenRefine opgave 1</a>
-1. <a href="pure_publications_26092017.xls">ekstra OpenRefine opgave m. PURE/DTU ORBIT data</a>
+1. <a href="Pure_publications_26092017.xls">ekstra OpenRefine opgave m. PURE/DTU ORBIT data</a>
 1. <a href=""></a>
 
 ### Link til <a href="https://github.com/JeannetteE/DTU-IKON">DTU IKON Github repository</a>
