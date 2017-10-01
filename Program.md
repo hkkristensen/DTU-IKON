@@ -1,16 +1,16 @@
 # Team dag  
 ## – Indledende introduktion til håndtering, deling og visualisering af DATA
 
-Tidspunkt: 2. oktober 2017 fra kl. 9-16.15 
+Tidspunkt: 2. oktober 2017 fra kl. 9-16.15
 
-Sted: Schæffergården, Jægersborg Alle 166, 2820 Gentofte 
+Sted: Schæffergården, Jægersborg Alle 166, 2820 Gentofte
 
-Underviser: Jeannette Ekstrøm 
+Underviser/facilitator: Jeannette Ekstrøm 
 
 
  | *Tidspunkt* | *Indhold* | *Ansvar* |
  | ------ | ------ | ------ |
- | 8.30-9.00 | Ankomst og morgenmad | IKON | 
+ | 8.30-9.00 | Ankomst og morgenmad | IKON |
  | 9.00 |	Velkomst | Andrew |
  | 9.20 | Hvad kan IKON få ud af at kende til værktøjer som OpenRefine, GitHub, VoSViewer mv. |  |
  | 9.45 | Introduktion til rensning af dataset ved brug af værktøjet OpenRefine | |
@@ -28,6 +28,5 @@ Underviser: Jeannette Ekstrøm
 
 
 ### Div tools til [download](preparation.md)
-### Div opgaver til OpenRefine, GitHub og VosViewer 
+### Div opgaver til OpenRefine, GitHub og VosViewer
 ### Links til eventuelle dataset  
-
