@@ -15,7 +15,7 @@ En dag, hvor vi skal forsøge at få lidt styr på enkelte Data Tools - masser a
 
 ## filer, dataset til øvelser
 1. <a href="openrefine_authors-people.csv">OpenRefine opgave 1</a>
-1. <a href="Pure_publications_26092017.xls">ekstra OpenRefine opgave m. PURE/DTU ORBIT data</a>
-1. <a href=""></a>
+1. <a href="Pure_publications_26092017.xls">PURE/DTU ORBIT data - bonus opgave</a>
+
 
 ### Link til <a href="https://github.com/JeannetteE/DTU-IKON">DTU IKON Github repository</a>
