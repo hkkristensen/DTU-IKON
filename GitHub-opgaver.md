@@ -24,7 +24,7 @@
 
     1. klik ind på https://github.com/JeannetteE/DTU-IKON/ (udarbejdet til lejligheden)
 
-    1. Klik på **FORK** øverst til højre og gem en KOPI af Jeannettes repository ( her finder I også alle filerne, alle opgaverne .. ) 
+    1. Klik på **FORK** øverst til højre og gem en KOPI af Jeannettes repository ( her finder I også alle filerne, alle opgaverne .. )
     1. I har nu lejlighed til at ændre i dette repositorie, som Jeannette har oprettet
         1. Ret og tilføj en smule tekst, et billede, en stavefejl ( kan ske via GitHub eller GitHub desktop client/ATOM editor
         1. Gem ( commit changes ) og Pull request til Jeannette
